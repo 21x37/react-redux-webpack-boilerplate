@@ -1,11 +1,5 @@
 import React from 'react';
 
-
-
-
-// Home Page
-
-
 const Index = () => {
     return (
         <div className='homepage'>
