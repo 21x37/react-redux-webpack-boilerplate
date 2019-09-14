@@ -27,3 +27,14 @@ npm install
 ```
 npm run dev-server
 ```
+
+or 
+
+for localhost api calls
+
+```
+npm run build:dev
+```
+```
+npm run start
+```
